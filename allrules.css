@@ -1,0 +1,8 @@
+div.tcontent{
+	position: relative;
+	opacity:0;
+	transition: 1s ease-out 0.5s;
+}
+div.tcontent.move {
+	opacity:1;
+}
